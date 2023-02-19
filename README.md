@@ -3,10 +3,7 @@ Human which breath air
 
 <div id="header" align="center">
   <img src="https://github.com/iidgg/iidgg/blob/main/giphy-downsized.webp" width="500"/>
-  <br />
   
-  <img src="https://komarev.com/ghpvc/?username=iidgg&style=flat-square&color=blue"/>
- 
   <br />
   <br />
   
@@ -15,6 +12,10 @@ Human which breath air
   <br />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iidgg&layout=compact&theme=vision-friendly-dark"/> 
+  
+  <br />
+  
+  <img src="https://komarev.com/ghpvc/?username=iidgg&style=flat-square&color=blue"/>
   
 </div>
 
