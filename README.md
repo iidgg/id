@@ -10,6 +10,6 @@ Human which breath air
   <br />
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iidgg" alt=""/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iidgg&theme=dark" alt=""/> 
 </div>
 
