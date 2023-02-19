@@ -10,6 +10,6 @@ Human which breath air
   <br />
   <br />
   
-  <img src="[https://komarev.com/ghpvc/?username=iidgg&style=flat-square&color=blue](https://github-readme-streak-stats.herokuapp.com/?user=iidgg)" alt=""/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iidgg" alt=""/> 
 </div>
 
