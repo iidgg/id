@@ -5,12 +5,12 @@
   
   <br />
   <br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=iidgg&show_icons=true&theme=dark"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iidgg&theme=dark"/> 
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iidgg&theme=dark"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=iidgg&show_icons=true&theme=dark"/>
   
   <br />
   
